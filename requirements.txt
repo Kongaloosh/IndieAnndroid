@@ -4,7 +4,7 @@ MarkdownAlbums==0.1
 html2text==2016.9.19
 tweepy==3.5.0
 Flask==1.0.2
-Jinja2==2.10
+Jinja2==2.11.3
 selenium==3.4.3
 MarkdownHashtags==0.1
 Markdown==2.6.8
